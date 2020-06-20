@@ -32,6 +32,7 @@ The notebook contains steps:
 1. Prepare both the datasets for Spark ML library
 1. Build the model and fit the training dataset into the model
 1. Use the test dataset against the model to get the predictions
+1. Submitted the prediction in kaggle; Scored: 0.77033!
 
 Ref: 
 1. https://www.kaggle.com/c/titanic/overview
